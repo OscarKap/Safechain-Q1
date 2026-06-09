@@ -18,7 +18,10 @@ export const authGuard = (
   }
   const token = authHeader.split(' ')[1];
   try {
-    const payload = jwt.verify(token, env.JWT_SECRET) as { sub: string; role: string };
+   const payload = jwt.verify(token, env.JWT_SECRET) as {
+  sub: string;
+  role: 'super_admin' | 'admin' | 'responder' | 'gbv_officer' | 'counsellor' | 'developer';
+};
     req.user = payload;
     next();
   } catch (e) {

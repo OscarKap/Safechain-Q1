@@ -155,3 +155,15 @@ model ReportAssignment {
 
   report Report @relation(fields: [report_id], references: [id])
 }
+
+// Phase 5 – Notification System
+model Notification {
+  id           String   @id @default(uuid())
+  recipient_id String
+  message      String
+  type         String   @default("in_app")
+  read         Boolean  @default(false)
+  created_at   DateTime @default(now())
+
+  recipient User @relation(fields: [recipient_id], references: [id])
+}
