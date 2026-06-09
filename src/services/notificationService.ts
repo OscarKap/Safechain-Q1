@@ -1,4 +1,4 @@
-import { PrismaClient } from '@prisma/client';
+import { PrismaClient, RoleName } from '@prisma/client';
 
 const prisma = new PrismaClient();
 
@@ -21,7 +21,7 @@ export const createNotification = async (data: NotificationData) => {
 export const createNotificationsForRoles = async (
   message: string,
   type?: string,
-  roles?: string[]
+  roles?: RoleName[]
 ) => {
   if (!roles || roles.length === 0) {
     return [];

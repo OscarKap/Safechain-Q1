@@ -40,6 +40,8 @@ model User {
   refreshTokenId String?  @unique
 
   role Role @relation(fields: [role_id], references: [id])
+
+  notifications Notification[]
 }
 
 model Province {
