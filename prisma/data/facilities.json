@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Chamakubi",
+    "type": "clinic",
+    "province": "Central Province",
+    "district": "Chibombo District",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "phone": null,
+    "is_active": true
+  },
+  {
+    "name": "Chibombo",
+    "type": "clinic",
+    "province": "Central Province",
+    "district": "Chibombo District",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "phone": null,
+    "is_active": true
+  },
+  {
+    "name": "Kitwe Central Hospital",
+    "type": "hospital",
+    "province": "Copperbelt Province",
+    "district": "Kitwe District",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "phone": null,
+    "is_active": true
+  },
+  {
+    "name": "Chipata General Hosp.",
+    "type": "hospital",
+    "province": "Eastern Province",
+    "district": "Chipata District",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "phone": null,
+    "is_active": true
+  },
+  {
+    "name": "University Teaching Hosp",
+    "type": "hospital",
+    "province": "Lusaka Province",
+    "district": "Lusaka District",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "phone": null,
+    "is_active": true
+  }
+]

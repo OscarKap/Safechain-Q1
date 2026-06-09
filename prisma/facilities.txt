@@ -1,0 +1,2153 @@
+﻿Here is a list of each health facility organized by province and district, based solely on the information in the provided document.
+
+### Central Province
+
+**Chibombo District**
+*   Chamakubi
+*   Chibombo
+*   Chikobo
+*   Chikonkome
+*   Chipembi
+*   Chipeso
+*   Chisamba
+*   Chitanda
+*   Golden Valley
+*   Itumbwe
+*   Ipongo
+*   Kabangalala
+*   Kaparu
+*   Kayosha
+*   Keembe
+*   Lieta Hospital
+*   Makoka
+*   Malambanyama
+*   Malombe
+*   Mboshya
+*   Momboshi
+*   Mulungushi Agro
+*   Mungule
+*   Muntemba
+*   Muswishi
+*   Mwachisompola
+*   Mwachisompola Demo Zone
+*   Mwanjuni
+*   Mwapula
+*   Naluyanda
+*   Namayani
+*   Shimukuni
+*   Twalumba
+*   ZNS Chisamba
+
+**Itezhi-Tezhi District**
+*   Banamwaze
+*   Basanga
+*   Buunga
+*   Bushinga
+*   Itezhi-Tezhi Hospital
+*   Kaanzwa
+*   Lubanda
+*   Luubwe
+*   Masasabi
+*   Masemu
+*   Mbila
+*   Muunga
+*   Nansenga
+*   Nanzhila
+*   Ngoma
+
+**Kabwe District**
+*   Bwacha
+*   Chindwini Camp
+*   Chowa
+*   Kabwe Mine. Hosp.
+*   Kabwe General Hospital
+*   Kangomba
+*   Kasanda
+*   Kasavasa
+*   Katondo
+*   Kawama
+*   Kohima
+*   Mahatma Gandhi Memorial
+*   Makululu
+*   Maximum Prison
+*   Medium Prison
+*   Mpima dairy
+*   Mpima Prisons
+*   Mukobeko Township
+*   Nakoli
+*   Natuseiko
+*   Ngungu
+*   Nkrumah T. College Clinic
+*   Pollen
+*   Railway Surgery
+*   ZAF
+*   Chreso
+*   Ranchhod
+*   Police
+*   ZISC
+*   Zambia National Service
+*   Munga
+*   Kalwelwe
+
+**Kapiri Mposhi District**
+*   Chankomo
+*   Chapusha
+*   Chawama
+*   Chibwe
+*   Chilumba
+*   Chilwa
+*   Chipipo
+*   Chishinka
+*   Chitaba
+*   Kafinda
+*   Kakulu
+*   Kampumba
+*   Kapiri
+*   Kapiri Mposhi Hospital
+*   Kawama
+*   Luanshumba
+*   Lukomba
+*   Lunchu ‘B’
+*   Lunsemfwa
+*   Mpunde
+*   Mukonchi
+*   Mukubwe
+*   Mulungushi
+*   Mumbachala
+*   NCMDS
+*   Ndeke
+*   Ngabwe
+*   Nkole
+*   St Pauls
+*   TAZARA
+*   Waya
+
+**Mkushi District**
+*   Chalata
+*   Chembe
+*   Chengelo
+*   Chibefwe
+*   Chikupili
+*   Chimika
+*   Chingombe
+*   Fiwila
+*   Kakushi
+*   Kampelembe
+*   Kaundula
+*   Luanshimba
+*   Masansa
+*   Mavo Clinic
+*   Mboroma
+*   Mboshya
+*   Miloso
+*   Mkushi District Hospital
+*   Mkushi Copper Mine
+*   Moffat Clinic
+*   Munsakamba
+*   Musofu
+*   Nkolonga
+*   Nkumbi
+*   Nshinso
+*   Old Mkushi
+*   Tusekelemo
+*   Twatasha
+
+**Mumbwa District**
+*   Chiwena
+*   Chunga
+*   Kaindu
+*   Kalenda ZNS
+*   Kapvanga
+*   Keezwa
+*   Luli
+*   Lungobe
+*   Lutale
+*   Maimwene
+*   Mine Clinic
+*   Mpusi
+*   Muchabi
+*   Mukulakwa
+*   Mumbwa
+*   Mwembezhi
+*   Mvoye
+*   Nakanjoli
+*   Nalubanda
+*   Naluvwi
+*   Nambala
+*   Nampundwe
+*   Nangoma Mission Hosp.
+*   Kamilambo
+*   Prisons
+*   Shabasonje
+*   Sichobo
+*   Urban Clinic
+*   ZAF Mumbwa Clinic
+*   Shachele
+*   Kapete
+*   Nambanga
+*   Kavanga
+*   Kalindi
+*   Kabwanga
+
+**Serenje District**
+*   Chalilo
+*   Chibale
+*   Chibobo
+*   Chipundu
+*   Chisomo
+*   Chitambo HAHC
+*   Chitambo Hospital
+*   Gibson
+*   Kabamba
+*   Kabundi
+*   Kafinda
+*   Kanona
+*   Kaseba
+*   Kunda L
+*   Lusiwasi
+*   Mailo
+*   Malcom Mofat
+*   Maepala
+*   Masase
+*   Miswema
+*   Mpelembe
+*   Mpepetwe
+*   Muchinka
+*   Mulushi
+*   Mulilima
+*   Nchimishi
+*   Serenje Habe
+*   Serenje District Hospital
+*   Yoramu Mwanje
+
+### Copperbelt Province
+
+**Chililabombwe District**
+*   Konkola Mine Hospital
+*   Chimfunshi
+*   Kakoso
+*   Kasumbalesa
+*   Konkola 1
+*   Konkola 2
+*   Konkola 4
+*   Konkola 5
+*   Lubengele
+*   Shaft 1
+*   Shaft 3
+
+**Chingola District**
+*   Chawama
+*   Chiwempala
+*   Health centre 1
+*   Health centre 3
+*   Ipafu
+*   Kabundi
+*   Kailo
+*   Kasompe
+*   Katuba
+*   Lulamba
+*   Muchinshi
+*   Mutenda
+*   NCH
+*   Nchangah North Hosp.
+*   Nchangah South Hosp.
+
+**Kalulushi District**
+*   Chambishi GRZ Clinic
+*   Chambishi Mine Clinic
+*   Kalulushi GRZ
+*   Chibuluma HC
+*   Chati RHC
+*   Ichimpe RHC
+*   Lukoshi RHC
+*   Mindolo TRN Farm Clinic
+*   Kite RHC
+*   Kalulushi T/Ship Clinic
+*   Kalulushi Main UHC
+*   Kalulushi Mine Hospital
+*   Chibote HP
+*   Chembe HP
+
+**Kitwe District**
+*   Buchi Main
+*   Buchi Small
+*   Bulangililo
+*   CBU
+*   Chamboli J
+*   Chavuma
+*   Chilobwe
+*   Chimwemwe
+*   City Square
+*   Community Dev. College
+*   Company
+*   COSETCO
+*   Garnatone
+*   Hillview Medical Centre
+*   Ipusukilo
+*   Itimpi
+*   Kakolo
+*   Kamfinsa
+*   Kamitondo
+*   Kawama
+*   Kitwe Central Hospital
+*   KCM Nkana Clinic
+*   KTTC
+*   KVTC
+*   Kwacha
+*   Luangwa
+*   Mawlaik Baracks (ZCCF Kitwe Camp)
+*   MEF
+*   Mindolo 1
+*   Mindolo 2
+*   Miseshi
+*   Mpelembe Secondary School
+*   Mulenga
+*   Mumana
+*   Mwaiseni
+*   Mwekera
+*   Natwange
+*   Ndeke
+*   Ndeke Village
+*   Nkana West (Care well)
+*   OHMB
+*   Progress Medical Centre
+*   Riverside
+*   Sinozam Hospital
+*   SOS Children's Village (Kitwe)
+*   Springs of Life Medical Centre
+*   Tina Medical Centre
+*   Twatasha
+*   Twibukishe (Kitwe Surgery)
+*   Wusakile D4
+*   Wusakile Govt.
+*   Wusakile Mine Hospital
+*   Zamtan
+*   ZNS (Kitwe Camp)
+
+**Luanshya District**
+*   173 Independence
+*   Alessandras
+*   Baluba
+*   Chaisa (section 9)
+*   Chilabula
+*   Fisenge
+*   Franco
+*   Kafubu Block
+*   Kawama
+*   Luanshya District Hospital
+*   Luanshya Main
+*   Mikomfwa Clinic
+*   Mikomfwa HC
+*   Mpatamatu Section 26
+*   New Town
+*   Plant & Works
+*   Roan Antelope Hospital
+*   Section 23
+*   Section 5
+*   Thomson Hospital
+*   TVTC
+*   Malaka
+*   Poreline HP
+*   ZAMEFA
+
+**Lufwanyama District**
+*   Bulava
+*   Chantente
+*   Chikabuke
+*   Chinem
+*   Fungulwe
+*   Kansoka
+*   Kapilamikwa
+*   Lumumma
+*   Mibenge
+*   Mibila
+*   Mukumbo
+*   Mukutuma
+*   Mushingashi
+*   Nkana
+*   Shimukunami
+*   St. Joseph's
+*   St. Mary's
+
+**Masaiti District**
+*   Bangwe
+*   Chikumbi
+*   Chilese
+*   Chinondo
+*   Chondwe
+*   Chiwala
+*   Fiwal
+*   Kaf. GRZ
+*   Kaf Mission
+*   Kambowa
+*   Kamifungo
+*   Kaloko
+*   Kashitu
+*   Lupiya
+*   Masaiti B
+*   Masaiti C
+*   Michinka
+*   Mishikishi
+*   Miengewe
+*   Mutaba
+*   Mukolwe
+*   Mupapa
+*   Njelemani
+
+**Mpongwe District**
+*   Ipumbu RHC
+*   Kalweo RHC
+*   Kanyenda RHC
+*   Kasamba RHC
+*   Luamabwe HP
+*   Luswishi HP
+*   Machiya RHC
+*   Mfulabunga HP
+*   Mikata RHC
+*   Mpondwe Mission Hosp.
+*   Munkumpu Company Clinic
+*   Mushiwe HP
+*   Mwinina RHC
+*   Mwishipashi HP
+*   Nampamba Company Clinic
+*   St.Anthony RHC
+*   St. Theresa Mission Hosp.
+
+**Mufulira District**
+*   14 Miles Health Post
+*   Buteko
+*   Butondo
+*   Chibolya
+*   Clinic 1
+*   Clinic 2
+*   Clinic 3
+*   Clinic 5
+*   Clinic 6
+*   Clinic 7
+*   Clinic 9
+*   Kafironda
+*   Kamuchanga clinic
+*   Kamuchanga District Hospital
+*   Kamuchanga District Hosp HAHC
+*   Kansuswa
+*   Kawama west
+*   Luansobe
+*   Malcom Watson Hospital
+*   Malcom Watson Hospital HAHC
+*   Mokambo
+*   Mupena
+*   Murundu
+*   Mutundu
+*   Ronald Ross General Hosp.
+*   Ronald Ross General Hosp. HAHC
+*   Taung-up
+*   Twatasha
+
+**Ndola District**
+*   Arthur Davison Hospital
+*   Bank of Zambia
+*   Chichetekele
+*   Chilanga Cement
+*   CHINA
+*   Chipokota Mayamba Clinic
+*   Commado Clinic
+*   Dola Hill Clinic
+*   HAHC for Arthur Davison H
+*   HAHC for Ndola Central Hosp.
+*   Indeni
+*   Jabulani
+*   Kabushi Clinic
+*   Kalewa Barracks
+*   Kaloko Clinic
+*   Kamila Clinic
+*   Kansheshi Prison Clinic
+*   Kavu Clinic
+*   Kawama Clinic
+*   Lubuto Clinic
+*   Mahatma Gandhi Clinic
+*   Mary Berg
+*   Masala Main Clinic
+*   Masala New Clinic
+*   Miramar
+*   Mpendwa
+*   Mushili Clinic
+*   Nalwange Family Clinic
+*   Ndeke Clinic
+*   Ndola Central Hospital
+*   Ndola Lime
+*   Nkhwazi Clinic
+*   Northern Breweries
+*   Peter Singogo Police Clinic
+*   Railway Surgery
+*   Sathya Sai Clinic
+*   Satyam
+*   Tazama Pipe Line
+*   TDRC
+*   Telnor
+*   Tug Argan Clinic
+*   Twapia Clinic
+*   VILLA
+*   ZESCO
+*   ZFDS Medical Centre
+*   Hill Top Hospital
+*   Itawa
+
+### Eastern Province
+
+**Chadiza District**
+*   Bwanunkha
+*   Chadiza
+*   Chandia
+*   Chanjowe
+*   Chikoma
+*   John
+*   Madzaela
+*   Mchenjeza
+*   Miti
+*   Mkumbuzi
+*   Mlawe
+*   Mental Rehabilitation Centre
+*   Nsadzu
+*   Sinalo
+*   Sindemisale
+*   Tafelansoni
+*   Zemba
+*   Kabvumo
+
+**Chipata District**
+*   Champhande
+*   Chikando
+*   Chinunda
+*   Chinyaku
+*   Chipangali
+*   Chiparamba
+*   Chipata General Hosp.
+*   Chipata OPD
+*   Chipungo
+*   Chiwoko
+*   Chizenje
+*   Eastern Command
+*   Gondar
+*   Jerusalem
+*   Kamulaza
+*   Kapara
+*   Kapata Urban
+*   Kasengwa
+*   Kasenga
+*   Katandala
+*   Katondo
+*   Kayeka
+*   Kwenje
+*   Lunkwakwa
+*   Madziatuwa
+*   Madzimawe
+*   Madzimoyo
+*   Mafuta
+*   Magwero
+*   Makwe
+*   Mchini
+*   Mkanda
+*   Mlanga
+*   Mnoro
+*   Mnukwa
+*   Msekera
+*   Mshawa
+*   Muzevi
+*   Mwami HAHC
+*   Mwami Hospital
+*   Namsche
+*   Rukuzye
+*   Samuel
+*   Tamanda
+*   Vizenge
+
+**Katete District**
+*   Chibolya
+*   Chilasa
+*   Chimtende
+*   Chimtengo
+*   Chimunsi
+*   Chindeza
+*   Chindwale
+*   Chinkombe
+*   Chitaw
+*   Kafumbwe
+*   Kafunkha
+*   Kagoro
+*   Kakula
+*   Kamiza
+*   Kamphambe
+*   Kasamba
+*   Katete Boma
+*   Mbinga
+*   Mindola
+*   Mn’gomba
+*   Mphangwe
+*   Mtandaza
+*   Mtezei
+*   Mthunya
+*   Nyembe
+*   Seya
+*   Undi
+*   Vulamkoko
+*   St Francis Mission Hospital
+
+**Lundazi District**
+*   Chasefu
+*   Chasera
+*   Chiemu
+*   Chikomeni
+*   Chitungulu
+*   Egichikeni
+*   Hoya
+*   Kamsaro
+*   Kanyanga
+*   Kapichila
+*   Kazembe
+*   Lukwizzi
+*   Lumezi
+*   Lundazi District Hospital
+*   Lundazi UHC
+*   Lumzi
+*   Lusumha
+*   Malandula
+*   Mankhaka
+*   Mchereka
+*   Mkasanga
+*   Mkomba
+*   Mwaloo
+*   Munyukwa
+*   Mwanya
+*   Mwase Lundazi
+*   Mwase Mchangwe Zonal
+*   Mwimba
+*   Ndaivala
+*   Ngonga
+*   Nkhanga
+*   Nkhanyu
+*   Nyangwe
+*   Phikamalaza
+*   Mwase Mchangwe Schemes
+*   Umi
+*   ZASP
+*   Zokwe
+*   Zumwanda
+*   Kamilenje
+*   Katube
+*   Chanyalubwe
+*   Khuli kuli
+*   Maniy
+*   Bovole
+*   Elija
+
+**Mambwe District**
+*   Kamoto Mission Hospital
+*   Kakumbi
+*   St Lukes Msoro
+*   Masumba
+*   Kasamanda
+*   Chikowa
+*   Nsefu
+*   Chilanga
+*   Malama
+*   Mphomwa
+*   Nyakatokoli
+*   BOMA clinic
+*   Chisengu
+*   Kamoto HAHC
+
+**Nyimba District**
+*   Chibisa
+*   Chikoma
+*   Chikonde
+*   Chinjala
+*   Chioya
+*   Dweni
+*   Gumbi
+*   Kakumbi
+*   Kalowa
+*   Kanyanga
+*   Kapilisanga
+*   Koma
+*   Luembe
+*   Lunkhwakwa
+*   Lupeshi
+*   Makungwa
+*   Masuzi
+*   Mbinga
+*   Misolo
+*   Msima
+*   Mtilizi H.P
+*   Mtilizi RHC
+*   Mwape
+*   Nyalugwe
+*   Nyimba HAHC
+*   ZNS
+
+**Petauke District**
+*   Chataika
+*   Chikowa
+*   Chikuse
+*   Chipungu
+*   Chisenjere
+*   Minga Mission Hospital
+*   Nyanje Mission Hospital
+*   Kakwiva
+*   K/walo
+*   Kanjiwa
+*   Luamphande
+*   Manyane
+*   Matambazi
+*   Mawanda
+*   Merwe
+*   Msanzala
+*   Mumbi
+*   Mwanika
+*   Mwanjabanthu
+*   Nyamphande
+*   Nyamphandolo
+*   Petauke Urban Clinic
+*   Refugee post
+*   Sandwe
+*   Set 30
+*   Set 18
+*   Sinda
+*   Ukwimi A
+*   Ukwimi B
+*   Mingona
+*   Sasu
+*   Chaka
+*   Mtukuzi
+*   Kapungwe
+*   Mankhugwe
+*   Petauke District Hospital
+
+### Luapula Province
+
+**Chembe District**
+*   Chembe
+*   Chipete
+*   Kundamfumu
+*   Kasomalwela
+*   Lukola
+
+**Chienge District**
+*   Chipungu
+*   Kabole
+*   Kabwe
+*   Kalembwe
+*   Lambwe Chomba
+*   Luchinda
+*   Mukunta
+*   Mwabu
+*   Puta
+*   Sambula
+
+**Chipili District**
+*   Chipili
+*   Kaoma Makasa
+*   Mwendia
+*   Mutipula
+*   Musalango
+*   Mupeta
+*   Luminu
+*   Mukonshi
+*   Mukanga
+*   Lupososhi
+*   Kalundu
+
+**Kawambwa District**
+*   Chama
+*   Chibote
+*   Chimpempe
+*   Chimpili
+*   Chitondo
+*   Kabanda
+*   Kanengo
+*   KTC
+*   Mufwaya
+*   Munkanta
+*   Mushota
+*   Musungu
+*   Muyembe
+*   Kawambwa HAHC
+*   Kawambwa District Hospital
+*   Kabila
+*   Chipunka
+*   Lufubu
+*   Kazembe
+*   Salanga
+*   Mbereshi HAHC
+*   Mukamba
+*   Mbereshi Mission Hospital
+
+**Mansa District**
+*   Buntungwa
+*   Central
+*   Chisemba
+*   Chisumba
+*   Fimpulu
+*   Kabunda
+*   Kalaba
+*   Kalvongo
+*   Kansenga
+*   Katangwe
+*   Luamfumu
+*   Lubende
+*   Mabumba
+*   Mano
+*   Mansa General Hospital
+*   Mantumbusa
+*   Matanda
+*   Mibenge
+*   Molosh
+*   Mutti
+*   Muwanguni
+*   Ndoba
+*   Nsonga
+*   Paul Mambilima
+*   Senama
+
+**Milenge District**
+*   Chembe
+*   Chikungu
+*   Chiulukila
+*   Chomba
+*   Kabunda
+*   Kafwaya
+*   Kalobwa
+*   Kalwelwe
+*   Kamana
+*   Kashiba
+*   Mbo
+*   Milenge
+*   Mofya
+*   Mukupa
+*   Mwenda
+*   Mwewa
+*   Nsamba
+*   Salanga
+*   Twingi
+
+**Mwense District**
+*   Mwense Stage II
+*   Lubunda
+*   Musangu
+*   Lukwesa
+*   Kawama
+*   Mununshi
+*   Kapamba
+*   Mubende
+*   Kashiba
+*   Mambilima
+*   Chibondo
+*   Katuta
+*   Chisheta
+*   Musonda
+*   Musonda Falls
+
+**Nchelenge District**
+*   St. Paul's Hospital
+*   Chablikila
+*   Chisenga
+*   Kabalenge
+*   Kabuta
+*   Kafutuma
+*   Kambwali
+*   Kanyembo
+*   Kiiwa
+*   Nchelenge
+*   Kashikishi
+*   Kapambwe
+*   Mulew
+*   Kefulwa
+
+**Samfya District**
+*   Bwalya Mponda
+*   Chibuye
+*   Chipako
+*   Chimanda
+*   Chimembe
+*   Chishi
+*   Fwaka e 8
+*   Kabongo
+*   Kalasamukoso
+*   Kalimankonde
+*   Kapata
+*   Kapata E 1
+*   Kasaba HAHC
+*   Kasaba Mission Hospital
+*   Kasanka
+*   Kasomalunga
+*   Kasuba HP
+*   Katanshya
+*   Lubwe HAHC
+*   Lubwe Mission Hospital
+*   Mabokunda
+*   Mbabala
+*   Miponda
+*   Mungulube
+*   Mundubi
+*   Mushili
+*   Mwasakombe
+*   Nambale
+*   Ninge
+*   Njipi
+*   Naslushi
+*   Samfya District Hospital
+*   Samfya stage 2
+*   Shikamushile
+
+### Lusaka Province
+
+**Chilanga District**
+*   Chilanga
+*   Kazimva
+*   Kris Katumba
+*   Mt Makulu
+*   Mwembeshi
+*   Mwembeshi Prisons
+*   Makeni Konga
+*   Mother of Mercy Hospice
+*   Zambia Army-Appollo
+*   Mt Eugenia
+*   ZNS-BB
+*   ZNS-LDB
+*   ZNS-Safari
+*   ZNS-Sopelo
+*   Lafarge
+*   Neri
+*   Reddin
+*   Koinonia
+*   Human Service Trust Hospice
+*   Chifwema
+*   Nakachenje
+*   Munyetu
+
+**Chongwe District**
+*   Chanda
+*   Chalimbana
+*   Chikumbi
+*   Chongwe
+*   Ellensdale
+*   Kabeleka
+*   Kampekete
+*   Kanakantapa
+*   Kaposhi
+*   Kasenga
+*   Kasis
+*   Katoba
+*   Lwimba
+*   Mikango
+*   Mpango
+*   Mwalumina
+*   Ngwerere
+*   Ngwerere Main
+*   Palabana
+*   Shiyala
+*   Water Falls
+*   ZAF 71
+*   ZAF Base
+*   ZASTI Clinic
+*   ZNS – Chongwe
+*   Chongwe District Hospital
+
+**Kafue District**
+*   Chanyanya
+*   Chiawa
+*   Chikupi
+*   Chipapa
+*   Chisankane
+*   Estates
+*   Kafue District Hospital
+*   Kafue Mission
+*   Kambale
+*   Nangongwe Maternity
+*   Nangongwe OPD
+*   Railway GRZ MoH
+*   Shimabala
+*   ZNS-Kafue
+*   Zubeda Clinic (Zwelopili Rd Kafue)
+*   Buyantashi Medical Clinic
+*   Tapwa Clinic
+*   NCZ Family Clinic
+*   NCZ Industrial Clinic
+*   Muna's
+*   Zambia Helpers Society Hospital
+*   Mungulamento
+*   Bamoral
+*   Chikoka
+*   Kabweza
+
+**Luangwa District**
+*   Chitope RHC
+*   Kasina RHC
+*   Katondwe Mission Hospital
+*   HAHC Katondwe Hospital
+*   Kavalamania RHC
+*   Luangwa Boma
+*   Luangwa Boys Sec School
+*   Mandombe
+*   Mphuka
+*   Sinyawagora
+
+**Lusaka District**
+*   A & T Dental Surgery
+*   African Textiles
+*   Airport
+*   Amanita Premier Oils Ltd
+*   Anderson
+*   Arakan Camp
+*   Baba Medical Centre
+*   Balm Medical Centre
+*   Bailen
+*   Beit Cure
+*   Bethel Infirmery
+*   Blessings Medical
+*   Bonita Surgery
+*   Bonita Medical
+*   Bwafwano Community
+*   Cancer Disease Hosp.
+*   Care for Business
+*   Chainama Hills Hospital
+*   Chainama Teaching
+*   Chainda
+*   Chaisa
+*   Chawama
+*   Chazanga
+*   Chelstone
+*   Chilenje
+*   Chinika Medical Centre
+*   Chipata
+*   Christian Care
+*   Chunga Sub Centre
+*   Circles of Hope D.C. Memorial
+*   Civic Centre
+*   Coptic
+*   Corpmed Services
+*   Cottage Diagnostic Centre
+*   Country Travellers & First Aid Centre
+*   D & D Dental
+*   Dalisto Medical Centre
+*   Diamond Dental Surgery
+*   Double Six Opticians
+*   Dr. Meiling Gong Surgery
+*   Dr. Wang s Surgery
+*   Dr. Wu Surgery
+*   Dr. Zhai Surgery
+*   Dr. Yan Xiuzi Surgery
+*   Evelyn Hone College
+*   Eye-Co-Opticians Limited
+*   Family Medical Centre
+*   Faya Health Centre
+*   First Fruit
+*   Flying Angels Mobile Hospice Surgery
+*   Force Headquarters
+*   Foster Chileshe Memorial
+*   Friendship Surgery
+*   Garden
+*   Garden West
+*   George
+*   George Twatsha
+*   George Chinnemwe 2
+*   Gettwell Medical Centre
+*   Gish Medical Centre
+*   Grace (New Chibola)
+*   Grandma Olipa Phiri Memorial
+*   Heal Fast Medical Centre
+*   Health Centre Lusaka (Doctor)
+*   Health Shield
+*   Hill Top
+*   Holiday Inn Hotel Staff
+*   Ideal Family Medical Centre
+*   Intercontinental Hotel
+*   Ismak Surgery
+*   Jobset Medical
+*   K.G.P Dental Surgery
+*   Kabwata
+*   Kalingalinga
+*   Kamwala
+*   Kamwala Medical Centre
+*   Kamwala Remand Prison
+*   Kanele
+*   Kanyama
+*   Kanyama West
+*   Kaunda Square
+*   Koinonia Community Medical Centre
+*   L.J. Eye
+*   Laura Anna (Lusaka)
+*   Levy Mwanawasa
+*   LICEF School
+*   Lilanda
+*   Lilayi
+*   Lilayi Farm Consulting
+*   Living Hope
+*   Lochi Medical
+*   Lusaka Adventist
+*   Lusaka Adventist Dental Services
+*   Lusaka Central Prison
+*   Lusaka Hotel Staff
+*   Lusaka Opticians Ltd
+*   Lusaka Trust
+*   M.H.S Opticians
+*   Macha Medical
+*   Magnum Medical Centre
+*   Maina Soko
+*   Maken
+*   Makeni Islamic Society
+*   Makeni Viro
+*   Mandevu
+*   Mars International - Lusaka
+*   Matero Main
+*   Matero Reference
+*   Medical & Laboratory services
+*   Medicare Opticians
+*   Medicare Trust
+*   Medicross Medical Centre
+*   Millenium Bag Medical Centre
+*   Ministry of Health
+*   MKPTMS
+*   Mobe Medical Centre
+*   Mendere
+*   Mum's Care
+*   Munsanda Medical Centre
+*   Mutema Chime
+*   Mutt Medical Services Ltd
+*   Nakonga
+*   National Milling Company Ltd
+*   Nawila Rehydration Centre
+*   NewStart MC Centre
+*   Ng'ombe
+*   NIPA
+*   Niza Medical Centre - Chilulu Rd
+*   Niza Medical Centre - Joth Laing
+*   Nkwazi Medical Centre
+*   Northmead Medical Centre
+*   Old Lady Medical Centre
+*   Oralcare Orthodontic Services Orthodontic Centre
+*   Pambili Farm
+*   Pearl of Health-Bwinjimfumu
+*   Pearl of Health-Chelston
+*   Pearl of Health-Town
+*   Pearl white Dental Solutions
+*   Pendleton Health Care
+*   Phil Opticians Ltd
+*   Physio Care
+*   Planned Parenthood Association (PPAZ)
+*   Polemi Medical Care
+*   Premium Medical Services
+*   Protea House Surgery
+*   Pro-Touch Physiotherapy
+*   Rabat Medical Centre
+*   Radha Surgery
+*   Railway
+*   Reliance Dental Centre
+*   Renai Health
+*   Rhema Medical Centre
+*   Roan Medical Centre
+*   Ruth Kaluuma Memorial Medical Centre
+*   Saka Surgery
+*   Sepio Surgery Garden Compound
+*   Smile Med. & Dental
+*   SOS Medical Centre
+*   Soweto Medical Centre
+*   Specialty Emergence Services Ltd
+*   Spring Surgery
+*   St. Agnes
+*   St. Clare Mission
+*   St. George al Services (2) Ltd
+*   St. John's Medical Centre Ltd
+*   St. Jude Medical Centre
+*   State House
+*   State Lodge
+*   Stellafie Dental Surgery
+*   Sunbird Eye
+*   TAJ Pamozi Hotel Staff
+*   Teba Medical Centre
+*   Tender Care-Matero
+*   Tender Care-Northmead
+*   The Cottage
+*   Tian Surgery
+*   Tokvo Opticians Lusaka
+*   Tolani Memorial
+*   Trinity
+*   Trust Medical Services
+*   Unique Medical Care
+*   UNZA Clinic
+*   University Teaching Hosp
+*   V. K. Home Based Care
+*   Victoria
+*   Victoria Medical Centre
+*   W.H.B. Medical Centre
+*   Zambia Bata Shoe Co.
+*   Zambia Emory HIV Research Project
+*   Zambian Breweries
+*   ZESCO Corporation Ltd Lusaka
+*   Zhang Ying Surgery
+*   Zhong Yi Surgery
+
+**Rufunsa District**
+*   Bundabunda
+*   Chimusanya
+*   Chinyunyu
+*   Chitemales
+*   Chivota
+*   HAHC Manshaya
+*   Kankumba
+*   Kasenga
+*   Liangwa Bridge
+*   Lukwipa
+*   Mpanshaya Mission Hosp.
+*   Mulamba
+*   Mwachilele
+*   Namanongo
+*   Nyangwena
+*   Rufunsa
+*   Shikabeta
+
+### Muchinga Province
+
+**Chama District**
+*   Buli
+*   Chibale
+*   Chifunda
+*   Chigoma
+*   Chikwa
+*   Chilubanama
+*   Fulaza
+*   HAHC
+*   Kalovya
+*   Kambombo
+*   Kambwili
+*   Kanyelete
+*   Kapichilasenga
+*   Lundu
+*   Mwalala
+*   Mapamba
+*   Mphyanakunda
+*   Mulilo
+*   Nthonkho
+*   Pondo
+*   Sitwe
+*   Tembwe
+*   Chama District Hospital
+
+**Chinsali District**
+*   Chilanga
+*   Chinsali HAHC
+*   Chinsali District Hospital
+*   Chunga
+*   Ilondola
+*   Kabanda
+*   Kalwala
+*   Konja
+*   Lubwa
+*   Lukaka
+*   Matumbo
+*   Mulanga
+*   Mulilansolo
+*   Mundu
+*   Mwika
+*   Nkula
+*   Shiwangandu
+*   Tazama
+
+**Isoka District**
+*   Isoka District Hospital
+*   Isoka OPD
+*   Kafwimbi
+*   Kalungu
+*   Kampumbu
+*   Lualizi
+*   Nzoche
+*   Kantensha
+*   Kapillongha
+*   Sansamwenje
+
+**Mafinga District**
+*   Chanama
+*   Chifunda
+*   Kalyamani
+*   Mulekatembo
+*   Muyombo
+*   Mweniwisi
+*   Nachisitu
+*   Thendele
+*   Zumbe
+
+**Mpika District**
+*   Chalabesa
+*   Chibansa
+*   Chikakala
+*   Chinkobo
+*   Chiunda Ponde
+*   Chilonga Hospital
+*   HAHC for Chilonga OPD
+*   HAHC for Mpika
+*   Kabinga
+*   Kaonda
+*   Kopa
+*   Lubunga
+*   Luchenbe
+*   Lufila
+*   Lukulu
+*   Lwitikila
+*   Mapoma
+*   Mbati
+*   Mpepo
+*   Mpika Hospital
+*   Mpumba
+*   Mukungule
+*   Muwele
+*   Nabwalya
+*   TZR Residential
+*   Wapendwa
+*   ZCA
+*   ZNS
+*   Kasenga
+
+**Nakonde District**
+*   Chilolwa
+*   Chazi
+*   Mayembe
+*   Mwenechaka
+*   Mwenzo
+*   Nakonde
+*   Nawaitwika
+*   Ntantumbila
+*   Shemu
+*   Mukalizi
+
+### Northern Province
+
+**Chilubi District**
+*   Chaba
+*   Chifwenge
+*   Chilubi
+*   Chitunkubwe
+*   Fube
+*   Kawena
+*   Matipa
+*   Mayuka
+*   Mofu
+*   Mubili
+*   Nsumbu
+*   Santa Maria
+
+**Kaputa District**
+*   Chishela
+*   Kalaba
+*   Kampinda
+*   Kaputa
+*   Kasongole
+*   Mukupa Katandula
+*   Mwewe
+*   Nkosha
+*   Nsama
+*   Nsumbu
+*   Kapepula
+*   Kakoma
+*   Kafwimbi Hp
+*   Kapisha
+
+**Kasama District**
+*   Army clinic
+*   Chandamukulu
+*   Chilongoshi
+*   Chilubula
+*   Chiombo
+*   Chisanga
+*   Kasama Teacher T College
+*   Kasakula
+*   Kasama Urban Clinic
+*   Kasama Gen. Hosp.
+*   Kateshi
+*   Location
+*   Lubushi
+*   Lukashi
+*   Lukashya
+*   Lukupa
+*   Mbusa
+*   Milima
+*   Misamfu
+*   Misengo
+*   Mulanshi
+*   Mulenga Hills
+*   Mulobola
+*   Mumbimukulu
+*   Mumbimfumu
+*   Munkonge
+*   Musa
+*   Mwamba
+*   Mwasha
+*   Nkolemfumu
+*   TAZARA
+*   ZNS Chishimba
+
+**Luwingu District**
+*   Chikoyi
+*   Chungu
+*   Ipusukilo
+*   Katuta
+*   Luena
+*   Namukolo
+*   Ndoki
+*   Nsombo
+*   Shimumbi
+*   Tungati
+*   Laurent Chita
+*   Mwando
+*   Lundu
+*   Lufubu
+*   Nioko
+*   Kalaba
+*   Luwingu District Hospital
+
+**Mbala District**
+*   Chileshya RHC
+*   Chisanza RHC
+*   Chozzi TZR RHC
+*   Isofu RHC
+*   Kaka RHC
+*   Kamuzwazi Health Post
+*   Kaseshya Health Post
+*   Kavumbo Health Post
+*   Kawimbe RHC
+*   Luka HP
+*   Mambwe Mission RHC
+*   Masamba RHC
+*   Maile HP
+*   Mbala General Hospital
+*   Mbala Urban Clinic
+*   Mpande RHC
+*   Mwamba RHC
+*   Nondo RHC
+*   Nokolo RHC
+*   Senga RHC
+*   Senka RHC
+*   Sumbi HP
+*   Tanzuka HP
+*   Tulemante UHC
+*   ZAF Mbala Clinic
+*   ZNS Mbala Clinic
+
+**Mporokoso District**
+*   Chishamwamba
+*   Chitoshi
+*   Chiwala
+*   Kalalwe
+*   Kapatu
+*   Moseni
+*   Mporokoso District Hospital
+*   Mukolwe
+*   Mukupa Kaoma
+*   Nialamimba
+*   Shibwala Kapila
+*   Sunkutu
+*   Township
+*   Vincent Bulaya
+
+**Mpulungu District**
+*   Chibote
+*   Chinakila
+*   Chitimbwa
+*   Isoko
+*   Iyendwe
+*   Kaizya
+*   Kalongola
+*   Kasakalawe
+*   Kopeka
+*   Mpulungu
+*   Vyamba
+
+**Mungwi District**
+*   Chifulo HP
+*   Chimba
+*   Chitimukulu
+*   Kalulu
+*   Kapolyo
+*   Kayambi
+*   Makasa
+*   Malole
+*   Mumba
+*   Mungwi
+*   Ndasa
+*   Ngoli
+*   Nseluka
+*   Peleti
+*   Rosa
+
+**Nsama District**
+*   Chishela
+*   Kampinda
+*   Kakoma
+*   Mwewe
+*   Nsama
+*   Nsumbu
+*   Kipisha
+
+### North-Western Province
+
+**Chavuma District**
+*   Chavuma Mission Hospital
+*   Chingi RHC
+*   Chivombo RHC
+*   Chiveke RHC
+*   HAHC of Chavuma M Hospital
+*   Lukolwe Mission RHC
+*   Nguvu HP
+*   Nyatanda HP
+
+**Ikelenge District**
+*   Ikelenge
+*   Jimbe
+*   Kafweku
+*   Kalene HAHC
+*   Kalene Mission Hospital
+*   Kayipaka
+*   Mukangala
+*   Sachibondu
+*   Salujinga
+
+**Kabompo District**
+*   Chifuwe South HP
+*   Chikokwelo RHC
+*   Diambombola HP
+*   Kabompo District Hospital
+*   Kabompo HAHC
+*   Kabulamema RHC
+*   Kalunga RHC
+*   Kasamba RHC
+*   Kashinakaji RHC
+*   Kayombo RHC
+*   Loloma HAHC
+*   Loloma Mission Hospital
+*   Luasongwa RHC
+*   Mayawu HP
+*   Mumbeji RHC
+*   Ndingo RHC
+*   Nikulwashi RHC
+*   St.Kalemba RHC
+
+**Kasempa District**
+*   Dengwe
+*   Jifumpa
+*   Kalombe
+*   Kamakechi
+*   Kamakuku
+*   Kanjibiji
+*   Kankolonkolo
+*   Kasempa
+*   Kelongwa
+*   Kivuku
+*   Lubofu
+*   Lunga
+*   Mpungu
+*   Mukinge Mission Hospital
+*   Mukinge Mission Hospital HAHC
+*   Mukunashi
+*   Nijenga
+*   Nselauke
+*   Ntemwa
+*   Nyoka
+
+**Mufumbwe District**
+*   Boma
+*   Jivundu
+*   Kabanda
+*   Kabipupu
+*   Kalengwa
+*   Kaminzekezeke
+*   Kashima
+*   Kikonge
+*   Lubilo
+*   Matushi
+*   Miluji
+*   Mufumbwe
+*   Mufumbwe District Hospital
+*   Munyambala
+*   Mushima
+*   Nyansonso
+
+**Mwinilunga District**
+*   Chibwika RHC
+*   Chisengisengi RHC
+*   Chiwoma RHC
+*   Kakoma RHC
+*   Kamapanda RHC
+*   Kanyama RHC
+*   Kanzenzi HP
+*   Kapundu RHC
+*   Katuvola RHC
+*   Kazozu RHC
+*   Lumwana RHC
+*   Luwi Mission Hospital
+*   Lwavu RHC
+*   Musangila RHC
+*   Mwinilunga HAHC
+*   Mwinilunga District Hospital
+*   Ntambo HAHC
+*   Ntambo Sachitolu HP
+*   Nyangombe RHC
+*   Sailunga RHC
+*   Sakapoti RHC
+*   Tom-Ilunga RHC
+
+**Solwezi District**
+*   Chisasa
+*   Chitungu
+*   Chowwe
+*   Hill Top
+*   Holy Family
+*   Jagaimo
+*   Jiwundu
+*   Kakombe
+*   Kalengelenge
+*   Kambishi
+*   Kamsenga
+*   Kamitontze ZNS
+*   Kankonzhi
+*   Kanuma
+*   Kanzala
+*   Kapijimanga
+*   Katandano ZNS
+*   Kazhiba
+*   Kazomba
+*   Kichikwe
+*   Kiumba
+*   Kimasala
+*   Kipushi
+*   Kyafukuma
+*   Kyanika
+*   Luamala
+*   Luanfula ZFDS
+*   Lukendo
+*   Lumwana Fast
+*   Mangala ZFDS
+*   Mapunga
+*   Matebo
+*   Meheba A
+*   Meheba B
+*   Meheba D
+*   Meheba F
+*   Mitukutuku
+*   Mujimanzovu
+*   Mukumbi
+*   Mumbezhi ZNS
+*   Mumena
+*   Musele
+*   Mushindamo
+*   Mushitala
+*   Mutanda
+*   Mutanda Research
+*   Muyashi
+*   Nkulumazhiba
+*   Shilenda
+*   Solwezi General Hospital
+*   Solwezi Medical Centre
+*   Solwezi Teachers college
+*   Solwezi UHC
+*   St Dorothy
+*   St Francis
+*   Wamafwa
+
+**Zambezi District**
+*   Chinyamipati RHC
+*   Chilenga RHC
+*   Chinyingi RHC
+*   Chitokoloki HAHC
+*   Chitokoloki Mission Hospital
+*   Dipalata
+*   Kucheka
+*   Mize
+*   Mpidi
+*   Mukandankunda RHC
+*   Muyembe
+*   Nyakulenga
+*   Zambezi District Hospital
+*   Zambezi HAHC
+
+### Southern Province
+
+**Choma District**
+*   Batoka
+*   Chilalantambo HP
+*   Chiyumbabeenzu
+*   Choma General Hospital
+*   Choma HAHC
+*   Demu HP
+*   Harmony HP
+*   Jambo
+*   Kamwantu
+*   Kanchomba
+*   Kasikili
+*   Kasiya
+*   Kazimaulu
+*   Macha HAHC
+*   Macha Mission Hospital
+*   Mangunza
+*   Mapanza
+*   Masuku Rural
+*   Masuku Terminal
+*   Mbabala
+*   Mochipapa
+*   Moyo
+*   Muzoka
+*   Nakempa
+*   Nalube H.P
+*   Ndondi HP
+*   Njase
+*   Pangwa HP
+*   Pemba Main
+*   Pemba Sub
+*   Popota
+*   Prison
+*   R/Surgery
+*   Shampande
+*   Sibayati
+*   Sikalongo
+*   Simakutu
+*   Simaubi
+*   Simeno
+*   Simooya
+*   Simukanka
+*   Simuleya
+*   ZNS
+
+**Gwembe District**
+*   Bondo
+*   Chaamwe
+*   Chisanga
+*   Chipepo
+*   Chaboboma
+*   Lukonde
+*   Luumbo
+*   Munyumbwe
+*   Sinafala
+*   HAHC
+*   Gwembe District Hospital
+
+**Kalomo District**
+*   Bbilili
+*   Chifusa
+*   Chilala
+*   Choonga
+*   Dimbwe
+*   Habulile
+*   Kalemu
+*   Kalomo District Hospital
+*   Kalomo Dist. Hosp. HAHC
+*   Kalonda
+*   Kanchele
+*   Luyaba
+*   Mabombo
+*   Mapatizya
+*   Masempela
+*   Mawaya
+*   Mayoba
+*   Monde
+*   Mubanga
+*   Mukwela
+*   Munkolo
+*   Muzya
+*   Nakowa
+*   Naluja
+*   Nameto
+*   Namwanga
+*   Nazilongo
+*   Nkandanzovu
+*   Siabunkululu
+*   Sachitema
+*   Siamafumba
+*   Simalundu
+*   Simwatachela
+*   Sipatunyana
+*   Zimba Mission Hospital
+*   Zimba Mission Hospital HAHC
+
+**Kazungula District**
+*   Kabuyu
+*   Katapazi
+*   Katombora
+*   Kauwe
+*   Kazungula
+*   Makunka
+*   Mambova
+*   Mandia
+*   Manyemuyemu
+*   Moomba
+*   Mukuni
+*   Musokotwane
+*   Nanyati
+*   Ngwezi
+*   Nyawa
+*   Sekute
+*   Siakasipa
+*   Sikazunwe
+*   Simango
+*   Sinde
+*   Singwamba
+*   Sons of Thunder
+
+**Livingstone District**
+*   Airport
+*   Boma
+*   DALICE
+*   Dambwa North
+*   Hillcrest
+*   Kasiva
+*   Livingstone General Hospital
+*   LIBES
+*   Libuyu
+*   Linda
+*   Mahatma Gandhi
+*   Maramba
+*   Mosi-oa-tunya
+*   Namatama
+*   Nongwe
+*   Police
+*   Prison
+*   Simonga
+*   Victoria Falls
+
+**Mazabuka District**
+*   Ceres
+*   Cheeba
+*   Chibote
+*   Chikani HP
+*   Chikankata Mission Hospital
+*   Chikokomene
+*   Chikombola
+*   Chingan ganka
+*   Chivuna
+*   HAHC for Chikankata
+*   HAHC for Mazabuka Hosp
+*   Hanjalika
+*   Hanzala
+*   Itebe
+*   Kafue Gorge
+*   Kafue Gorge Hospital
+*   Kalama
+*   Kaleva Small Holders
+*   Kaleva Sugar
+*   Kaleva Urban
+*   Kaonga
+*   Konkola
+*   Lubombo
+*   Magoye
+*   Makuku
+*   Manyonyo HP
+*   Mazabuka Hospital
+*   Mbaya Musuma
+*   Mogoto
+*   Mugoto
+*   Mukuvu
+*   Munenga
+*   Muniile
+*   Musuma
+*   Mweemba HP
+*   Nadezwe
+*   Nakambala Urban
+*   Naluama
+*   Namaila
+*   Namenebo
+*   Nanduba
+*   Nanga
+*   Nega Nega
+*   Niomona
+*   Nkabika
+*   Research Station
+*   Riverside Farm
+*   Simwaambwa
+*   Terranova
+
+**Monze District**
+*   Banakaila
+*   Bweengwa
+*   Charles Lwanga
+*   Chikuni OPD '
+*   Chisekesi
+*   Hakunkula
+*   Hamangaba
+*   Hamapande
+*   Kanundwa
+*   Katimba
+*   Kaumba
+*   Keemba
+*   Luyaba
+*   Malundu
+*   Manungu
+*   Monze Mission Hosp.
+*   Monze Urban
+*   Moomba
+*   Moonzwe
+*   Nadongo
+*   Nampeyo
+*   Njola Mwanza
+*   Nteme
+*   Rusangu
+*   Siatontola
+*   St Mary's
+*   ZCA Clinic
+
+**Namwala District**
+*   Baambwe RHC
+*   Chitongo Zonal HC
+*   Ichila RHC
+*   Kabulamwanda RHC
+*   Kantengwa RHC
+*   Kasenga RHC
+*   Maala RHC
+*   Maseele UHC
+*   Moobola RHC
+*   Muchila RHC
+*   NaKamboma RHC
+*   Namwala District Hospital
+*   Namwala HAHC
+
+**Siavonga District**
+*   Chaanga
+*   Chikanzaya
+*   Chipepo
+*   Ibwe Munyama
+*   Jamba
+*   Kapulullira
+*   Kariba
+*   Lusitu
+*   Manchavwa
+*   Matua
+*   Mtendere HAHC
+*   Mtendere Mission Hospital
+*   Munyama
+*   Nabutezi
+*   Sianyoolo
+*   Siavonga District Hosp.
+*   Siavonga HAHC
+
+**Sinazongwe District**
+*   Buleyamalima
+*   Chiyabi
+*   GVDC
+*   HAHC
+*   Kafwambila
+*   Maamba Hospital
+*   Muuka
+*   Muziyo
+*   Siameja
+*   Siansowa
+*   Siatwinda
+*   Sikaneka
+*   Sinamalima
+*   Sinazeze
+*   Sinazongwe
+*   Sulwegonde
+
+### Western Province
+
+**Kalabo District**
+*   Kalabo District Hospital
+*   Kaluwe
+*   Kuuli
+*   Libonda
+*   Liumba
+*   Liumena
+*   Liyoyelo
+*   Lueti
+*   Lukena
+*   Lukona
+*   Luoke West
+*   Luola
+*   Lutwi
+*   Mambolomoka
+*   Mapungu
+*   Mwenyi
+*   Mutaa
+*   Namatindi
+*   N'uma
+*   Nyengo
+*   Sihole
+*   Sikongo
+*   Siluwe
+*   Sishekanu
+*   Situlu
+*   Tapo
+*   Tuuwa
+*   Wenela
+*   Yuka MCH-OPD
+*   Yuka Mission Hospital
+
+**Kaoma District**
+*   Afumba
+*   Chitwa
+*   Kaaba
+*   Kabilamwandi
+*   Kahare
+*   Kandende
+*   Kaoma District Hospital
+*   Kaoma HAHC
+*   Kaoma
+*   Kasabi
+*   Kasimba
+*   Katunda
+*   Longe
+*   Luampa HAHC
+*   Luampa Mission Hospital
+*   Luena Camp Hospital
+*   Lui
+*   Lunyati
+*   Mangango HAHC
+*   Mangango Mission Hospital
+*   Mangango ZNS
+*   Mayukwa yukwa 2
+*   Mayukwa yukwa
+*   Mbanyutu
+*   Mulwa
+*   Mutondo
+*   Mwanambuyu
+*   Nakayembe
+*   Namando HP
+*   Namilangi
+*   Njonjolo
+*   Nkenga
+*   Nkeyema
+*   Nyambi 1
+*   Nyambi 2
+*   Shibanga Aha HP
+*   Winda
+
+**Lukulu District**
+*   Dongwe RHC
+*   Kakulunda RHC
+*   Kamilende RHC
+*   Kasheke HP
+*   Kawaya HP
+*   Lishuwa RHC
+*   Luanchuma HP
+*   Lubosi HP
+*   Lubosi UHC
+*   Lukau HP
+*   Lukulu DHMT
+*   Lukulu District Hospital
+*   Luvuzi RHC
+*   Mataba HP
+*   Mayankwa RHC
+*   Mbanga RHC
+*   Mitete RHC
+*   Namayula HP
+*   Ngimbu RHC
+*   Nyaala HP
+*   Sancta Maria HAC_CTC
+*   Sikunduko RHC
+*   Simakumba RHC
+*   Sitaka RHC
+*   Watopa RHC
+*   West Five RHC
+
+**Mongu District**
+*   Mongu UHC
+*   Ikwichi
+*   Iloke
+*   Kalundwana
+*   Kama
+*   Lealui
+*   Limulunga
+*   Luandui
+*   Liyoyelo
+*   Lukalanya
+*   Lukweta
+*   Mabumbu
+*   Mawawa
+*   Mulambwa
+*   Mwanawina
+*   Nalikwanda
+*   Namitome
+*   Namushakende
+*   Nangula
+*   Ndanda
+*   Prisons
+*   Sefula
+*   Sitoya
+*   Ushaa
+*   Litawa
+*   Nalwei
+*   Ndau
+*   Simulumbe
+*   Lewanika General Hospital
+*   Nang'oko
+*   Nomai
+*   Ilute
+*   Ikabako
+*   Kaande
+*   Namengo
+*   Sibongo
+*   Nasange
+*   Luatembo
+
+**Senanga District**
+*   Itufa RHC
+*   Kataba RHC
+*   Kaungalueti HC
+*   Liangati HP
+*   Liliachi HC
+*   Litambya HC
+*   Litoya RHC
+*   Lui River HC
+*   Namabunga HP
+*   Wanyau HP
+*   Nalolo HC
+*   Nanjucha HC
+*   Nasilimwe HC
+*   Ngundi HP
+*   Mapungu HP
+*   Mata HC
+*   Muoyo HC
+*   Mwanamwalye RHC
+*   Urban HC
+*   Senanag District Hospital
+*   Sibukali HC
+*   Sikumbi HC
+*   Sinungu HC
+
+**Sesheke District**
+*   Bwina
+*   Sichili HAHC
+*   Imusho
+*   Kalobolelwa
+*   Katima Mulilo
+*   Kaywala
+*   Lumbe
+*   Lusu
+*   Masese
+*   Mukusi Sawmills
+*   Mulauli
+*   Mulimambango
+*   Mulobezi
+*   Mushukula
+*   Mwandi HAHC
+*   Mwandi Mission Hospital
+*   Nawinda
+*   Neongelo HP
+*   Sejamba RHC
+*   Sichili Mission Hospital
+*   Silumbu
+*   Situlu
+*   Yeta HAHC
+*   Yeta Hospital
+*   Zambezi
+
+**Shangombo District**
+*   Kaanja
+*   Kaungamashi
+*   Lyabangu
+*   Mbanda
+*   Mulonga
+*   Mutomena
+*   Nalwashi
+*   Nangweshi
+*   Shangombo
+*   Silowana
+*   Sinjembela
+*   Sioma
+*   Sipuma
+*   Sitoti
+*   Siwelewele
