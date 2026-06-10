@@ -73,7 +73,15 @@ export const register = async (req: Request, res: Response, next: NextFunction):
 
     await sendVerificationEmail(dto.email, 'stub-token');
 
-    const accessToken = signAccessToken({ sub: user.id, role: 'user' });
+    // Fetch the newly created user with role for accurate JWT
+    const fullUser = await prisma.user.findUnique({
+      where: { id: user.id },
+      include: { role: true },
+    });
+    if (!fullUser) {
+      throw { status: 500, message: 'User not found after creation' };
+    }
+    const accessToken = signAccessToken({ sub: fullUser.id, role: fullUser.role.name });
     const { token: refreshToken } = await createRefreshToken(user.id);
 
     res.status(201).json({ accessToken, refreshToken });
@@ -100,7 +108,15 @@ export const login = async (req: Request, res: Response, next: NextFunction): Pr
       return;
     }
 
-    const accessToken = signAccessToken({ sub: user.id, role: 'user' });
+    // After verifying credentials, fetch user with role
+    const userWithRole = await prisma.user.findUnique({
+      where: { id: user.id },
+      include: { role: true },
+    });
+    if (!userWithRole) {
+      throw { status: 500, message: 'User record missing' };
+    }
+    const accessToken = signAccessToken({ sub: userWithRole.id, role: userWithRole.role.name });
     const { token: refreshToken } = await createRefreshToken(user.id);
 
     res.json({ accessToken, refreshToken });
@@ -149,7 +165,15 @@ export const refresh = async (req: Request, res: Response, next: NextFunction): 
       return;
     }
 
-    const accessToken = signAccessToken({ sub: user.id, role: 'user' });
+    // After verifying credentials, fetch user with role
+    const userWithRole = await prisma.user.findUnique({
+      where: { id: user.id },
+      include: { role: true },
+    });
+    if (!userWithRole) {
+      throw { status: 500, message: 'User record missing' };
+    }
+    const accessToken = signAccessToken({ sub: userWithRole.id, role: userWithRole.role.name });
     const { token: newRefreshToken } = await createRefreshToken(user.id);
 
     res.json({ accessToken, refreshToken: newRefreshToken });

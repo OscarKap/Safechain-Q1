@@ -6,18 +6,28 @@ const prisma = new PrismaClient();
 /**
  * Assign a report to a responder
  * Creates a ReportAssignment record and sends a notification to the responder.
- * Only super_admin and admin roles should call this.
+ * Also updates the report's status and assignedToId in the database.
  */
 export const assignReport = async (
   reportId: string,
   responderId: string,
   assignedById: string
 ) => {
+  // Create the assignment
   const assignment = await prisma.reportAssignment.create({
     data: {
       report_id: reportId,
       responder_id: responderId,
       assigned_by: assignedById,
+    },
+  });
+
+  // Update the report's status and assignedToId
+  await prisma.report.update({
+    where: { id: reportId },
+    data: {
+      status: 'Assigned',
+      assignedToId: responderId,
     },
   });
 

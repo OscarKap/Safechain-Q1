@@ -6,8 +6,10 @@ import {
   updateReportStatus,
 } from '../services/reportService';
 import { assignReport } from '../services/assignmentService';
-import { createNotification } from '../services/notificationService';
+import { createNotification, createNotificationsForRoles } from '../services/notificationService';
+import { ROLES } from '../middleware/rbacGuard';
 import logger from '../config/logger';
+import { AuthenticatedRequest } from '../middleware/rbacGuard';
 
 export const createReportHandler = async (
   req: Request,
@@ -17,11 +19,11 @@ export const createReportHandler = async (
   try {
     const report = await createReport(req.body);
     // Notify all admins/responders about new report
-    await createNotification({
-      recipient_id: 'system', // placeholder for system-wide notification
-      message: `New report created: ${report.id}`,
-      type: 'in_app',
-    });
+    await createNotificationsForRoles(
+      `New report created: ${report.id}`,
+      'in_app',
+      [ROLES.ADMIN, ROLES.SUPER_ADMIN, ROLES.RESPONDER]
+    );
     logger.info('Report created', { id: report.id });
     res.status(201).json(report);
   } catch (e) {
@@ -99,16 +101,14 @@ export const updateStatusHandler = async (
     const { status } = req.body;
     const report = await updateReportStatus(req.params.id, status);
     // Notify admins when status changes
-    await createNotification({
-      recipient_id: 'system',
-      message: `Report ${req.params.id} status updated to ${status}`,
-      type: 'in_app',
-    });
+    await createNotificationsForRoles(
+      `Report ${req.params.id} status updated to ${status}`,
+      'in_app',
+      [ROLES.ADMIN, ROLES.SUPER_ADMIN]
+    );
     logger.info('Report status updated', { id: req.params.id, status });
     res.json(report);
   } catch (e) {
     next(e);
   }
 };
-
-import { AuthenticatedRequest } from '../middleware/rbacGuard';

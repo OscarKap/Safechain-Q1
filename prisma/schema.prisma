@@ -1,6 +1,6 @@
 datasource db {
-  provider = "postgresql"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  url       = env("DIRECT_URL")
 }
 
 generator client {
@@ -39,9 +39,9 @@ model User {
   updated_at     DateTime @updatedAt
   refreshTokenId String?  @unique
 
-  role Role @relation(fields: [role_id], references: [id])
-
-  notifications Notification[]
+  role            Role           @relation(fields: [role_id], references: [id])
+  assignedReports Report[]
+  notifications   Notification[]
 }
 
 model Province {
@@ -119,8 +119,12 @@ model Report {
   reporter_phone String?
   status         ReportStatus @default(New)
   priority       String       @default("Low")
-  created_at     DateTime     @default(now())
-  updated_at     DateTime     @updatedAt
+
+  assignedToId String?
+  assignedTo   User?   @relation(fields: [assignedToId], references: [id])
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
 
   attachments Attachment[]
   assignments ReportAssignment[]
